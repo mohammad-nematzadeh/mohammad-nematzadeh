@@ -31,9 +31,12 @@
 - **Live Demo:** [mohammad-nematzadeh.github.io/dops](https://mohammad-nematzadeh.github.io/dops/)
 - **Repository:** [github.com/mohammad-nematzadeh/dops](https://github.com/mohammad-nematzadeh/dops)
 
-#### 🎬 2. Shoppable Video Reels Engine ("جعبه جادویی")
-- **Tech:** WordPress Plugin, WooCommerce AJAX Cart, Mobile Touch Gestures, Vertical Video
-- **Highlights:** Engineered an Instagram Reels-style interactive video commerce experience. Visitors swipe through short-form product videos and can select variants and checkout immediately without leaving the full-screen reel. Deployed on **Nilson Shop**, **Japatoo**, and **Ghasedak Decor**.
+#### 🎬 2. WP INSTA (اینستاگرام وردپرس) — Shoppable Reels & Multi-Photo Carousel
+- **Tech:** WordPress & WooCommerce Plugin, Smooth Snap Scroll, Multi-Photo Slider, AJAX Cart API, Touch Gestures
+- **Highlights:** Instagram-like visual commerce experience featuring smooth vertical snap scrolling, multi-photo carousel swipe gestures, and shoppable product linking directly beneath each reel.
+- **Live Implementations:**
+  - [Decorasion Ghasedak (Video Transformation Reels)](https://decorasionghasedak.com/%d8%ac%d8%b9%d8%a8%d9%87-%d8%ac%d8%a7%d8%af%d9%88%db%8c%db%8c/)
+  - [Japatoo (Shoppable Multi-Photo Style Sets)](https://japatoo.com/%D9%84%D9%86%D8%AF%DB%8C%D9%86%DA%AF-%D8%B3%D8%AA-%D9%87%D8%A7/)
 
 #### 🛒 3. SabadAsa Checkout (سبدآسا) — WooCommerce Optimization
 - **Tech:** WooCommerce 8.0 & 9.0+, AJAX Drawer Cart, Order Bump, Jalali Delivery Scheduling
@@ -45,7 +48,7 @@
 
 #### 💬 5. Bale Support & Orders for WooCommerce
 - **Tech:** Bale Messenger API, Live Chat Widget, Webhooks, Ticket Management
-- **Highlights:** Customer live support widget on frontend with direct two-way Bale Messenger integration for real-time order alerts and support tickets dispatched directly to store owners' Bale client.
+- **Highlights:** Customer live support widget on frontend with direct two-way Bale Messenger integration for real-time order alerts and support tickets dispatched directly to store owners' Bale client. Deployed and active on **Abji Store** ([abjistore.ir](https://abjistore.ir)) and **Ghasedak Decor** ([decorasionghasedak.com](https://decorasionghasedak.com)).
 
 #### 🎧 6. BIOS Podcast Engine & Auto-Publisher
 - **Tech:** Custom WordPress Plugin, Castbox RSS XML Parser, Persistent Audio API, Shortcode Framework
