@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Mohammad Nemat-Zadeh 👋</h1>
   <h3>Website Designer & WordPress Developer</h3>
-  <p>Designing modern websites, custom WordPress plugins, theme customization, serverless micro-services, and automated catalog ingestion pipelines.</p>
+  <p>Designing modern websites, custom WordPress plugins, and theme customization with a passionate team-player mindset. Viewing every project as a continuous learning journey and opportunity for technical growth.</p>
 
   <p>
     <a href="https://mohammad-nematzadeh.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-mohammad--nematzadeh.github.io-0a66c2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Portfolio" /></a>
