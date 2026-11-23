@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Mohammad Nemat-Zadeh 👋</h1>
-  <h3>Senior WordPress Engineer & Custom Plugin Developer</h3>
-  <p>Engineering high-performance WooCommerce architectures, custom WordPress plugins, serverless micro-services, and Persian AI SaaS systems.</p>
+  <h3>Website Designer & WordPress Developer</h3>
+  <p>Designing modern websites, custom WordPress plugins, theme customization, serverless micro-services, and automated catalog ingestion pipelines.</p>
 
   <p>
     <a href="https://mohammad-nematzadeh.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-mohammad--nematzadeh.github.io-0a66c2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Portfolio" /></a>
@@ -16,7 +16,7 @@
 
 ### 🚀 Core Engineering Expertise
 
-- **Custom WordPress & Plugin Engineering:** High-performance custom plugins, WooCommerce lifecycle hooks, REST/Webhook integrations, shortcode audio engines, and interactive swipe video systems.
+- **Website Design & Custom WordPress Development:** Modern responsive web design, custom plugin development, theme customization (WoodMart, Astra, Elementor Pro), WooCommerce lifecycle hooks, and REST/Webhook integrations.
 - **AI Platforms & Agentic Automation:** Full-stack SaaS platforms with SSE token streaming, custom prompt/agent engineering (Antigravity, Claude, MCP servers), automated Python ETL pipelines, and Playwright mockup generation scripts.
 - **Serverless & Edge Infrastructure:** Cloudflare Workers for resilient API proxying (100% uptime bypass of censorship/filtering), direct Bale Messenger bot webhooks, Redis object caching, and Core Web Vitals engineering.
 - **Frontend & Commercial UI:** Modern semantic HTML5, Tailwind CSS, high-fidelity responsive RTL architectures, 60fps GPU-accelerated CSS animations, and mobile-first touch ergonomics.
@@ -62,6 +62,7 @@
 - **Live:** [2mteam.ir/chat](https://2mteam.ir/chat)
 
 #### 🛍️ 9. High-Scale WooCommerce Implementations
+- **[Aran Milano](https://aranmilano.ir):** B2B/B2C kitchen and sanitary appliances store with 1,000+ products automated via Model Context Protocol (MCP) server integration and official WebP image pipelines, built with WoodMart and Elementor Pro.
 - **[Nilson Shop](https://nilsonshop.com):** 3,000+ orders, interactive customer quiz, installment checkout (TorobPay), and zero-heat product discovery.
 - **[Japatoo](https://japatoo.com):** Interactive fashion lookbook, conversational search, and SnappPay 4-installment payment gateway.
 - **[Avin Club](https://avinclub.ir):** Millimeter exact shoe sizing tool, AJAX attribute filtering, and Zibal instant payment gateway.
